@@ -42,7 +42,7 @@ CREATE TABLE customer
   c_mktsegment   VARCHAR(10) NOT NULL
 );
 
-CREATE TABLE date 
+CREATE TABLE date_
 (
   d_datekey            INTEGER NOT NULL,
   d_date               VARCHAR(19) NOT NULL,
